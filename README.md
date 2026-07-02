@@ -1,0 +1,1 @@
+A command-line Help Desk Ticketing System written in C++ that simulates a simple IT support workflow. Users can create support tickets, update ticket status, and manage requests using a persistent file-based storage system.
