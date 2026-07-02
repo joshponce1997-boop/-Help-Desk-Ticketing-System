@@ -1,0 +1,3 @@
+Alice|Computer won't boot|9:15 AM|0
+Bob|Forgot password|9:30 AM|1
+Charlie|Printer offline|10:45 AM|0
